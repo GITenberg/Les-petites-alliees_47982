@@ -1,4 +1,8 @@
 _repo: Les-petites-alliees_47982
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47982-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrère, Claude
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3805
     wikipedia: http://en.wikipedia.org/wiki/Claude_Farrère
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47982#Les-petites-alliees
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2015-01-16'
 gutenberg_type: Text
